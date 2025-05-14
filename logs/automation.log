@@ -1,0 +1,357 @@
+2025-03-13 17:47:32 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/grouping.xml
+
+2025-03-13 17:47:35 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-03-13 17:47:35 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-03-13 17:47:36 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-03-13 17:47:38 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-03-13 17:47:45 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-03-13 17:47:45 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-03-13 17:47:45 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-03-13 17:47:47 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-03-13 17:47:47 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-03-13 17:47:49 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-03-13 17:47:49 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-03-13 17:47:52 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-03-13 17:47:52 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-03-13 17:49:08 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/grouping.xml
+
+2025-03-13 17:49:10 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-03-13 17:49:10 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-03-13 17:49:11 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-03-13 17:49:13 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-03-13 17:49:20 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-03-13 17:49:20 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-03-13 17:49:20 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-03-13 17:49:22 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-03-13 17:49:22 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-03-13 17:49:24 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-03-13 17:49:24 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-03-13 17:49:27 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-03-13 17:49:27 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-03-13 18:23:18 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/grouping.xml
+
+2025-03-13 18:23:21 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-03-13 18:23:21 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-03-13 18:23:21 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-03-13 18:23:23 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-03-13 18:23:30 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-03-13 18:23:30 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-03-13 18:23:30 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-03-13 18:23:32 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-03-13 18:23:32 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-03-13 18:23:34 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-03-13 18:23:34 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-03-13 18:23:37 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-03-13 18:23:37 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-03-13 19:42:07 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/grouping.xml
+
+2025-03-13 19:42:11 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-03-13 19:42:11 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-03-13 19:42:11 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-03-13 19:42:14 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-03-13 19:42:21 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-03-13 19:42:21 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-03-13 19:42:21 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-03-13 19:42:24 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-03-13 19:42:24 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-03-13 19:42:26 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-03-13 19:42:26 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-03-13 19:42:39 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-03-13 20:35:01 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/master.xml
+
+2025-03-13 20:35:04 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-03-13 20:35:04 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-03-13 20:35:05 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-03-13 20:35:07 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-03-13 20:35:14 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-03-13 20:35:14 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-03-13 20:35:14 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-03-13 20:35:16 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-03-13 20:35:16 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-03-13 20:35:18 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-03-13 20:35:18 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-03-13 20:35:31 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-03-13 20:38:58 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/test-output/testng-failed.xml
+
+2025-03-13 20:39:01 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-03-13 20:39:01 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-03-13 20:39:03 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-03-13 20:39:03 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-03-13 20:39:06 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-03-13 20:39:06 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-03-13 20:41:31 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/master.xml
+
+2025-03-13 20:41:34 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-03-13 20:41:34 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-03-13 20:41:34 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-03-13 20:41:36 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-03-13 20:41:43 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-03-13 20:41:45 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-03-13 20:41:45 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-03-13 20:41:48 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-03-13 20:41:48 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-03-13 20:41:50 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-03-13 20:41:51 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-03-13 20:44:51 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/master.xml
+
+2025-03-13 20:44:54 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-03-13 20:44:54 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-03-13 20:44:54 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-03-13 20:44:56 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-03-13 20:45:04 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-03-13 20:45:06 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-03-13 20:45:06 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-03-13 20:45:08 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-03-13 20:45:08 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-03-13 20:45:21 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-03-13 20:47:46 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/test-output/testng-failed.xml
+
+2025-03-13 20:47:49 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-03-13 20:47:49 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-03-13 20:47:51 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-03-13 20:47:51 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-03-13 20:47:54 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-03-13 20:47:54 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-03-13 20:47:56 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-03-13 20:47:56 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-03-13 20:47:56 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-03-13 20:47:59 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-03-13 20:48:06 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-03-13 20:48:06 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-03-13 20:48:06 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-03-13 20:48:23 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/master.xml
+
+2025-03-13 20:48:25 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-03-13 20:48:25 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-03-13 20:48:26 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-03-13 20:48:28 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-03-13 20:48:35 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-03-13 20:48:35 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-03-13 20:48:35 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-03-13 20:48:37 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-03-13 20:48:37 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-03-13 20:48:39 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-03-13 20:48:39 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-03-13 20:48:42 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-03-13 20:48:42 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-03-19 18:26:49 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/master.xml
+
+2025-03-19 18:26:52 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-03-19 18:26:52 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-03-19 18:26:52 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-03-19 18:26:54 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-03-19 18:27:01 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-03-19 18:27:01 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-03-19 18:27:01 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-03-19 18:27:03 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-03-19 18:27:03 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-03-19 18:27:06 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-03-19 18:27:06 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-03-19 18:27:08 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-03-19 18:27:09 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-04-29 10:33:47 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/master.xml
+
+2025-04-29 10:33:52 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-04-29 10:33:52 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-04-29 10:33:52 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-04-29 10:33:54 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-04-29 10:34:01 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-04-29 10:34:01 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-04-29 10:34:01 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-04-29 10:34:04 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-04-29 10:34:04 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-04-29 10:34:06 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-04-29 10:34:06 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-04-29 10:34:09 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-04-29 10:34:09 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-05-02 12:50:09 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/master.xml
+
+2025-05-02 12:50:14 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-05-02 12:50:14 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-05-02 12:50:16 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-05-02 12:50:18 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-05-02 12:50:25 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-05-02 12:50:25 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-05-02 12:50:25 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-05-02 12:50:27 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-05-02 12:50:27 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-05-02 12:50:30 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-05-02 12:50:30 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-05-02 12:50:33 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-05-02 12:50:33 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-05-13 13:26:15 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/master.xml
+
+2025-05-13 13:26:50 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-05-13 13:27:25 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/master.xml
+
+2025-05-13 13:27:57 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-05-13 13:28:19 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/master.xml
+
+2025-05-13 13:39:51 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/grouping.xml
+
+2025-05-13 13:51:48 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/test-output/testng-failed.xml
+
+2025-05-13 14:56:28 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/master.xml
+
+2025-05-13 14:58:43 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/master.xml
+
+2025-05-13 16:52:07 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-05-13 16:53:47 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-05-13 16:58:58 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/master.xml
+
+2025-05-13 16:59:01 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-05-13 16:59:02 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-05-13 16:59:02 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-05-13 16:59:04 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-05-13 16:59:11 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-05-13 16:59:11 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-05-13 16:59:11 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-05-13 16:59:13 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-05-13 16:59:13 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-05-13 16:59:16 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-05-13 16:59:16 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-05-13 16:59:28 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-05-13 17:03:48 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/master.xml
+
+2025-05-13 17:03:52 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-05-13 17:03:52 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-05-13 17:03:52 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-05-13 17:03:54 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-05-13 17:04:01 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-05-13 17:04:01 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-05-13 17:04:01 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-05-13 17:04:04 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-05-13 17:04:04 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-05-13 17:04:06 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-05-13 17:04:06 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-05-13 17:04:08 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-05-13 17:04:09 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-05-13 17:04:36 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-05-13 17:04:36 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-05-13 17:04:36 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-05-13 17:04:38 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-05-13 17:04:45 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-05-13 17:04:45 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-05-13 17:04:45 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-05-13 17:04:47 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-05-13 17:04:47 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-05-13 17:04:50 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-05-13 17:04:50 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-05-13 17:04:52 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-05-13 17:04:52 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-05-13 17:25:01 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-05-13 17:25:01 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-05-13 17:25:02 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-05-13 17:25:04 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-05-13 17:25:10 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-05-13 17:25:10 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-05-13 17:25:10 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-05-13 17:25:13 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-05-13 17:25:13 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-05-13 17:25:15 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-05-13 17:25:15 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-05-13 17:25:18 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-05-13 17:25:18 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-05-13 19:50:37 INFO  Utils:112 - [TestNG] Running:
+  /Users/safikulmondal/eclipse-workspace/OpenCartV2/master.xml
+
+2025-05-13 19:50:42 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-05-13 19:50:42 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-05-13 19:50:42 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-05-13 19:50:44 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-05-13 19:50:51 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-05-13 19:50:51 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-05-13 19:50:51 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-05-13 19:50:54 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-05-13 19:50:54 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-05-13 19:50:56 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-05-13 19:50:56 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-05-13 19:50:59 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-05-13 19:50:59 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-05-13 19:57:38 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-05-13 19:57:38 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-05-13 19:57:38 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-05-13 19:57:40 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-05-13 19:57:48 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-05-13 19:57:48 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-05-13 19:57:48 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-05-13 19:57:50 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-05-13 19:57:50 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-05-13 19:57:52 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-05-13 19:57:52 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-05-13 19:57:55 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-05-13 19:57:55 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-05-14 23:15:19 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-05-14 23:15:19 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-05-14 23:15:19 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-05-14 23:15:21 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-05-14 23:15:28 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-05-14 23:15:28 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-05-14 23:15:28 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-05-14 23:15:33 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-05-14 23:15:33 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-05-14 23:15:35 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-05-14 23:15:35 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-05-14 23:15:38 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-05-14 23:15:38 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-05-14 23:39:57 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-05-14 23:39:57 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-05-14 23:39:58 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-05-14 23:40:00 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-05-14 23:40:07 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-05-14 23:40:07 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-05-14 23:40:07 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-05-14 23:40:10 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-05-14 23:40:10 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-05-14 23:40:12 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-05-14 23:40:12 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-05-14 23:40:15 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-05-14 23:40:15 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-05-14 23:43:19 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-05-14 23:43:20 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-05-14 23:43:20 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-05-14 23:43:22 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-05-14 23:43:29 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-05-14 23:43:29 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-05-14 23:43:29 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-05-14 23:43:33 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-05-14 23:43:33 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-05-14 23:43:35 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-05-14 23:43:35 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-05-14 23:43:38 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-05-14 23:43:38 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
+2025-05-14 23:44:31 INFO  TC001_AccRegTest:19 - Test Case TC001_AccRegTest Started
+2025-05-14 23:44:31 INFO  TC001_AccRegTest:27 - Clicked on My Account
+2025-05-14 23:44:33 INFO  TC001_AccRegTest:29 - Clicked on Register
+2025-05-14 23:44:35 INFO  TC001_AccRegTest:38 - Entering Registration Details
+2025-05-14 23:44:42 INFO  TC001_AccRegTest:61 - Validating expected success message
+2025-05-14 23:44:42 INFO  TC001_AccRegTest:66 - Test Case TC001_AccRegTest Passed
+2025-05-14 23:44:42 INFO  TC001_AccRegTest:84 - Test Case TC001_AccRegTest Completed
+2025-05-14 23:44:45 INFO  TC002_LoginTest:16 - Test Case TC002_LoginTest Started
+2025-05-14 23:44:45 INFO  TC002_LoginTest:23 - Clicked on My Account
+2025-05-14 23:44:47 INFO  TC002_LoginTest:26 - Clicked on Login
+2025-05-14 23:44:47 INFO  TC002_LoginTest:31 - Entering Login Details
+2025-05-14 23:44:50 INFO  TC002_LoginTest:44 - Validating my account page is displayed
+2025-05-14 23:44:51 INFO  TC002_LoginTest:55 - Test Case TC002_LoginTest Passes
