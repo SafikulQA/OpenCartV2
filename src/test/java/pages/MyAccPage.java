@@ -8,9 +8,9 @@ import pageObjects.BasePage;
 
 public class MyAccPage extends BasePage{
 	
-	WebDriver driver;
+	//WebDriver driver; //Removed the unused instance variable WebDriver driver; since it's already inherited from BasePage.
 	
-	// child class constructor -1 Mandatory step for every child page object class
+	// Constructor - Mandatory for every child page object class
 	public MyAccPage(WebDriver driver)
 	{
 	super(driver);
@@ -20,7 +20,7 @@ public class MyAccPage extends BasePage{
 	//Locators -2
 	
 	@FindBy(xpath="//h2[normalize-space()='My Account']")
-	private WebElement masgHeading;
+	private WebElement msgHeading;
 	
 	@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Logout']")  //added in step-6
 	private WebElement lnkLogout;
@@ -29,12 +29,15 @@ public class MyAccPage extends BasePage{
 	
 	
 	//Action Methods -3
+
+     /*	Checks if the My Account page is displayed by verifying the heading.
+     @return true if displayed, false otherwise	*/
 	
 	public boolean isMyAccPageExists()
 	{
 		try {
 		
-			return (masgHeading.isDisplayed());		//if it is displayed return true
+			return (msgHeading.isDisplayed());		//if it is displayed return true
 		}
 		catch (Exception e) 
 		{

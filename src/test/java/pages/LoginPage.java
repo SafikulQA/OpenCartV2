@@ -8,9 +8,9 @@ import pageObjects.BasePage;
 
 public class LoginPage extends BasePage{
 	
-	WebDriver driver;
+	//WebDriver driver; //Removed the unused instance variable WebDriver driver; since it's already inherited from BasePage.
 	
-// child class constructor -1 Mandatory step for every child page object class
+   // Constructor - Mandatory for every child page object class
     
     public  LoginPage(WebDriver driver) 
     {
@@ -19,7 +19,7 @@ public class LoginPage extends BasePage{
     
 //Locators -2
     @FindBy(xpath="//input[@id='input-email']")
-    private WebElement txtEmailAdders;
+    private WebElement txtEmailAddress;
     
     @FindBy(xpath="//input[@id='input-password']")
     private WebElement txtPassword;
@@ -31,7 +31,7 @@ public class LoginPage extends BasePage{
     
     public void enterEmail(String email)
     {
-    	txtEmailAdders.sendKeys(email);
+    	txtEmailAddress.sendKeys(email);
     }
     
     public void enterPassword(String password)

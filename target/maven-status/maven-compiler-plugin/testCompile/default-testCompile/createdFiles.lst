@@ -1,5 +1,6 @@
 pages/MyAccPage.class
 pages/AccRegPage.class
+testCases/TC004_Search.class
 testCases/TC003_LoginDDT.class
 pages/HomePage.class
 utilities/ExtentReportManager.class

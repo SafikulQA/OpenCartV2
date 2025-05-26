@@ -9,7 +9,7 @@ import pageObjects.BasePage;
 
 public class AccRegPage extends BasePage {
 
-    WebDriver driver;
+    //WebDriver driver; //Removed the unused instance variable WebDriver driver; since it's already inherited from BasePage.
     
     // child class constructor -1 Mandatory step for every child page object class
     

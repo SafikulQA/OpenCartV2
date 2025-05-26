@@ -18,11 +18,11 @@ public class TC002_LoginTest extends BaseTest{
 		try {
 			
 		// Create object of HomePage
-		HomePage hpage=new HomePage(driver);
-		hpage.clickOnMyAccount();
+		HomePage hPage=new HomePage(driver);
+		hPage.clickOnMyAccount();
 		logger.info("Clicked on My Account");
 		Thread.sleep(2000);
-		hpage.clickOnLogin();
+		hPage.clickOnLogin();
 		logger.info("Clicked on Login");
 		
 		// Create object of LoginPage
