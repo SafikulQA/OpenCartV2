@@ -6,13 +6,13 @@ import org.openqa.selenium.support.FindBy;
 
 import pageObjects.BasePage;
 
-public class ShoppingCartPage extends BasePage {
+public class AddToCartPage extends BasePage {
 
     // WebDriver driver; // Removed the unused instance variable WebDriver driver; since it's already inherited from BasePage.
     // child class constructor - Mandatory step for every child page object class
     
     // Step 1 -> Constructor to initialize WebDriver from BasePage
-    public ShoppingCartPage(WebDriver driver) {
+    public AddToCartPage(WebDriver driver) {
         super(driver);
     }
     

@@ -64,35 +64,35 @@ public class CheckoutPage extends BasePage {
 
     // Step 3 -> Action methods to interact with checkout page elements
 
-    public void setFirstName(String firstname) {
+    public void enterFirstName(String firstname) {
         txtFirstNameElement.sendKeys(firstname); // Enter first name
     }
 
-    public void setLastName(String lastname) {
+    public void enterLastName(String lastname) {
         txtLastNamElement.sendKeys(lastname); // Enter last name
     }
 
-    public void setAddress1(String address1) {
+    public void enterAddress1(String address1) {
         txtAddress1Element.sendKeys(address1); // Enter address line 1
     }
 
-    public void setAddress2(String address2) {
+    public void enterAddress2(String address2) {
         txtAddress2Element.sendKeys(address2); // Enter address line 2 (optional)
     }
 
-    public void setCity(String city) {
+    public void enterCity(String city) {
         txtCityElement.sendKeys(city); // Enter city
     }
 
-    public void setPostCode(String pin) {
+    public void enterPostCode(String pin) {
         txtPostCodeElement.sendKeys(pin); // Enter postal code
     }
 
-    public void setCountry(String country) {
+    public void selectCountry(String country) {
         new Select(dropCountryElement).selectByVisibleText(country); // Select country from dropdown
     }
 
-    public void setState(String state) {
+    public void selectState(String state) {
         new Select(dropStateElement).selectByVisibleText(state); // Select state/region from dropdown
     }
 
